@@ -37,19 +37,19 @@
 <img width="482" alt="18" src="https://github.com/AyaAouad/ecom-application/assets/110836586/de87eee4-bae3-4e53-a1ff-76862d6334b6">
 <h5>19- Affichage de la page INVENTORY-SERVICE/products qui comporte une liste de products avec leurs détails et links vers chaque products, ainsi que des informations de pagination et des links vers la page actuelle et profile des products.</h5>
 <img width="404" alt="19" src="https://github.com/AyaAouad/ecom-application/assets/110836586/851e1ac5-10b0-4cde-8372-afb0d9d5cfe3">
-<h5>20</h5>
+<h5>20- Accés à la base de données nommée bill-db.</h5>
 <img width="548" alt="20" src="https://github.com/AyaAouad/ecom-application/assets/110836586/663da6ac-b2f9-4102-9a5a-8de4e6ecd8a0">
-<h5>21</h5>
+<h5>21- Affichage de la base de données bill-db avec les champs suivants : (ID, BILL_DATE et CUSTOMER_ID).</h5>
 <img width="646" alt="21" src="https://github.com/AyaAouad/ecom-application/assets/110836586/e53d4d89-b4d1-40c9-a2be-44c65d4917ec">
-<h5>22</h5>
+<h5>22- Affichage de la base de données product-iten avec les champs suivants : (ID, DISCOUNT, PRICE, PRODUCT_ID, QUANTITY et BILL_ID).</h5>
 <img width="599" alt="22" src="https://github.com/AyaAouad/ecom-application/assets/110836586/3cb906f6-2f57-499c-8761-0df356d41942">
-<h5>23</h5>
+<h5>23- Affichage de la page fullBill/1 qui contient une facture avec des détails sur billDate, le customerId et productItems, y compris quantity, price et discount.</h5>
 <img width="472" alt="23" src="https://github.com/AyaAouad/ecom-application/assets/110836586/aef1604b-d1c7-4fa3-92bb-009de529a2cc">
-<h5>24</h5>
+<h5>24- Affichage de la page BILLING-SERVICE/bills qui contient une liste de factures avec des détails sur billDate, customer (le cas échéant), et links vers chaque bill ainsi que vers les products associés à chaque bill.</h5>
 <img width="386" alt="24" src="https://github.com/AyaAouad/ecom-application/assets/110836586/6137f409-e82a-47e8-bd21-9e54fe5faa01">
-<h5>25</h5>
+<h5>25- Affichage de la page CUSTOMER-SERVICE/customers qui contient une liste de customers avec leurs détails et des links vers chaque customers, ainsi que des informations de pagination et des links vers la page actuelle et le profil des customers.</h5>
 <img width="456" alt="25" src="https://github.com/AyaAouad/ecom-application/assets/110836586/c333d0be-31aa-45dc-a097-7d94d9f0093a">
-<h5>26</h5>
+<h5>26- Affichage de la page INVENTORY-SERVICE/products qui contient une liste de products avec leurs détails et des links vers chaque products, ainsi que des informations de pagination et des links vers la page actuelle et le profil des products </h5>
 <img width="416" alt="26" src="https://github.com/AyaAouad/ecom-application/assets/110836586/6e035056-3f86-40b3-a229-9a74ec106d92">
-<h5>27</h5>
+<h5>27- Affichage de la page BILLING-SERVICE/fullBILL/1 qui contient bill avec des détails sur la billDate, customers et productItems, y compris leur quantity, price et discount.</h5>
 <img width="343" alt="27" src="https://github.com/AyaAouad/ecom-application/assets/110836586/86a5a455-5a4f-4855-a067-981e10455679">
