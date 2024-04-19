@@ -3,7 +3,7 @@
 <img width="525" alt="1" src="https://github.com/AyaAouad/ecom-application/assets/110836586/f652c3e4-643e-4e67-8ecb-49107c7c3871">
 <h5>2- Affichage de la base de données account-db avec les champs suivants : (ID, EMAIL et NAME).</h5>
 <img width="557" alt="2" src="https://github.com/AyaAouad/ecom-application/assets/110836586/80df7af8-7cd5-4d6c-a8e1-c529e259cd9f">
-<h5>3</h5>
+<h5>3- </h5>
 <img width="425" alt="3" src="https://github.com/AyaAouad/ecom-application/assets/110836586/34187d42-7372-49ee-8bbb-b3d28518c1c7">
 <h5>4</h5>
 <img width="353" alt="4" src="https://github.com/AyaAouad/ecom-application/assets/110836586/3f04e112-ce6b-49e0-9a15-505e8f63a688">
