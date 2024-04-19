@@ -3,13 +3,13 @@
 <img width="525" alt="1" src="https://github.com/AyaAouad/ecom-application/assets/110836586/f652c3e4-643e-4e67-8ecb-49107c7c3871">
 <h5>2- Affichage de la base de données customer-db avec les champs suivants : (ID, EMAIL et NAME).</h5>
 <img width="557" alt="2" src="https://github.com/AyaAouad/ecom-application/assets/110836586/80df7af8-7cd5-4d6c-a8e1-c529e259cd9f">
-<h5>3- </h5>
+<h5>3- Affichage de la liste de customers avec leurs informations telles que : (NOM, EMAIL, et LINKS) vers leurs profils. Les informations sont organisées en utilisant le format HAL (Hypertext Application Language) avec des liens auto-descriptifs. </h5>
 <img width="425" alt="3" src="https://github.com/AyaAouad/ecom-application/assets/110836586/34187d42-7372-49ee-8bbb-b3d28518c1c7">
-<h5>4</h5>
+<h5>4- Affichage du customer dont l'identifiant est 1.</h5>
 <img width="353" alt="4" src="https://github.com/AyaAouad/ecom-application/assets/110836586/3f04e112-ce6b-49e0-9a15-505e8f63a688">
-<h5>5</h5>
+<h5>5- Affichage du customer dont l'identifiant est 2.</h5>
 <img width="343" alt="5" src="https://github.com/AyaAouad/ecom-application/assets/110836586/57cf5fb1-e3ef-4d83-8cdc-85c04f2fae74">
-<h5>6</h5>
+<h5>6- Affichage du customer en fonction des attributs spécifiés.</h5>
 <img width="452" alt="6" src="https://github.com/AyaAouad/ecom-application/assets/110836586/f9e6faa0-aa99-4df6-9973-140acbd947f2">
 <h5>7</h5>
 <img width="443" alt="7" src="https://github.com/AyaAouad/ecom-application/assets/110836586/0628ff16-155c-4948-8577-ecd091a52d03">
